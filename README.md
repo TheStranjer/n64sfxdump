@@ -8,6 +8,7 @@ A small, portable command-line tool for Linux (builds with clang or GCC, script-
 n64sfxdump <rom> <output-dir> [options]
 ```
 
+Example:
 ```
 ./n64sfxdump "BattleTanx (U).z64" /tmp/bt-sfx
 ```
